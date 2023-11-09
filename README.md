@@ -37,8 +37,11 @@ Malware/
 
 * [Wei Wang](https://github.com/echowei) - ww8137@mail.ustc.edu.cn
 
-* 恶意流量识别项目使用的数据集，数据集里面包含10种正常流量和10种恶意流量，使用CNN进行恶意流量分类，
 * [David Lu](https://github.com/yungshenglu)
+
+  ##Add
+  *  恶意流量识别项目使用的数据集，数据集里面包含10种正常流量和10种恶意流量，使用CNN进行恶意流量分类，
+  *  
 
 ---
 ## License
